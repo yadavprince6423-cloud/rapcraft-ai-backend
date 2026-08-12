@@ -1,7 +1,2 @@
-torch
-transformers
-scipy
-numpy
 flask
-flask-cors
-
+requests
